@@ -6,3 +6,7 @@
 
 ### 자료 링크 모음
 [바로 가기](https://github.com/snowpero/appium/blob/main/appium_link.md)
+
+### Python 스크립트 모음
+[바로 가기](https://github.com/snowpero/appium/tree/main/python_script)
+
